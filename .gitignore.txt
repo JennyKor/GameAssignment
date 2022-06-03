@@ -1,5 +1,6 @@
 .vs
+*.vsconfig
 library/
 temp/
-**/CasualGameSounds
+CasualGameSounds/
 **/Music Tracks

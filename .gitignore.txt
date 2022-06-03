@@ -1,6 +1,0 @@
-.vs
-*.vsconfig
-library/
-temp/
-CasualGameSounds/
-**/Music Tracks

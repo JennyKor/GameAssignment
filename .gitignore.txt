@@ -1,3 +1,5 @@
 .vs
 library/
 temp/
+**/CasualGameSounds
+**/Music Tracks
